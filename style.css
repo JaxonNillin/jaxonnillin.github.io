@@ -13,6 +13,7 @@
               }
 
               p {
+                background-color: grey;
                 width: 60%;
                 margin: 10% 20% 10% 20%;
                 border: solid black 2px;
